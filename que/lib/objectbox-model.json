@@ -1,0 +1,150 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3523354962780544442",
+      "lastPropertyId": "13:7220904931335944677",
+      "name": "Task",
+      "properties": [
+        {
+          "id": "1:6110751161206709561",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1188803391374408319",
+          "name": "taskId",
+          "type": 9,
+          "flags": 34848,
+          "indexId": "1:9082580250178685122"
+        },
+        {
+          "id": "3:2714772534337005993",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "4:8406296474655244287",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "5:1784484243739293398",
+          "name": "timeUnit",
+          "type": 6
+        },
+        {
+          "id": "6:5268670426386637546",
+          "name": "timeValue",
+          "type": 6
+        },
+        {
+          "id": "7:1131428622371534277",
+          "name": "assignee",
+          "type": 9
+        },
+        {
+          "id": "8:8322598314886066668",
+          "name": "assignedTo",
+          "type": 9
+        },
+        {
+          "id": "9:8607785878012646010",
+          "name": "createdOn",
+          "type": 10
+        },
+        {
+          "id": "10:1132349683810245614",
+          "name": "priority",
+          "type": 9
+        },
+        {
+          "id": "11:9206772069463147735",
+          "name": "status",
+          "type": 9
+        },
+        {
+          "id": "12:8796882751393717504",
+          "name": "company",
+          "type": 9
+        },
+        {
+          "id": "13:7220904931335944677",
+          "name": "isNotified",
+          "type": 1
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:3002427532839356135",
+      "lastPropertyId": "9:605967604994737938",
+      "name": "QueUser",
+      "properties": [
+        {
+          "id": "1:695977339921948808",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2624647766619991511",
+          "name": "queUserId",
+          "type": 9,
+          "flags": 34848,
+          "indexId": "2:1129167188674907085"
+        },
+        {
+          "id": "3:7427872741697197612",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "4:4344367427753372939",
+          "name": "displayName",
+          "type": 9
+        },
+        {
+          "id": "5:8313634373492723169",
+          "name": "mobileNo",
+          "type": 9
+        },
+        {
+          "id": "6:252152814127440514",
+          "name": "photoUrl",
+          "type": 9
+        },
+        {
+          "id": "7:681857862778930290",
+          "name": "company",
+          "type": 9
+        },
+        {
+          "id": "8:2774035008098866372",
+          "name": "role",
+          "type": 9
+        },
+        {
+          "id": "9:605967604994737938",
+          "name": "color",
+          "type": 6
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "2:3002427532839356135",
+  "lastIndexId": "2:1129167188674907085",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

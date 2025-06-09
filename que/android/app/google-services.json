@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "320438447867",
+    "firebase_url": "https://firestore-demo-c06bd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firestore-demo-c06bd",
+    "storage_bucket": "firestore-demo-c06bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320438447867:android:164f090b99e53661398a5e",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.advancedui.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck_yROm0xoBqsq-Ke7QquwGc6M04zl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320438447867-bg3g6livvcn8n30s71853pf3llod16a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedantbhavsar1997.chatapp.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320438447867:android:afc659784cf1af9d398a5e",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.allfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320438447867-fsd4a4sgob6mcog8c0btr1rgselpmfdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedantbhavsar1997.allfirebasedemo",
+            "certificate_hash": "90d84b7fec7bffa3fc6872f17ec5545741e8f615"
+          }
+        },
+        {
+          "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck_yROm0xoBqsq-Ke7QquwGc6M04zl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320438447867-bg3g6livvcn8n30s71853pf3llod16a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedantbhavsar1997.chatapp.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320438447867:android:71421294b9f471e2398a5e",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.android11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320438447867-3re5b3b2tsiabo6do7u7jm0vv7daup1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedantbhavsar1997.android11",
+            "certificate_hash": "90d84b7fec7bffa3fc6872f17ec5545741e8f615"
+          }
+        },
+        {
+          "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck_yROm0xoBqsq-Ke7QquwGc6M04zl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320438447867-bg3g6livvcn8n30s71853pf3llod16a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedantbhavsar1997.chatapp.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320438447867:android:cc3316c8a94120cf398a5e",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.chat_app.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck_yROm0xoBqsq-Ke7QquwGc6M04zl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320438447867-bg3g6livvcn8n30s71853pf3llod16a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedantbhavsar1997.chatapp.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320438447867:android:c48edbee431d570e398a5e",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.que.que"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320438447867-7cmiutaee499ljmn1vi9o0sos8jq49qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedantbhavsar1997.que.que",
+            "certificate_hash": "90d84b7fec7bffa3fc6872f17ec5545741e8f615"
+          }
+        },
+        {
+          "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck_yROm0xoBqsq-Ke7QquwGc6M04zl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320438447867-lf3ucdv9pf987b4me333fb7vqeunrh62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320438447867-bg3g6livvcn8n30s71853pf3llod16a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedantbhavsar1997.chatapp.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
